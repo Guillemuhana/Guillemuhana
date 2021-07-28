@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Guillermo Manuel Muhana",
+    "occupation": "(Diseñador y programador web)",
+    "description": "Freelance developer, Front end react developer junior y Diseñador web (Wordpress)",
+    "image": "profilepic.jpg",
+    "bio": "Me presento como una persona activa, responsable, creativa, flexible, dinámica, orientada al logro de resultados y a la resolución de las tareas asignadas. Me gusta trabajar en equipo, tengo como virtud la predisposición para aprender, investigar y sobretodo demostrar actitud y ganas de trabajar.   Tengo conocimientos en asp.net core, Javascript, html5, php, laravel, css, bootstrap, wordpress y actualmente estudiando mucho React.js - Material ui",
+    "contactmessage": "He desarrollado páginas web para importantes clientes de Latinoamérica y del exterior, esto me permitió adquirir una gran experiencia como programador web.  Me agrada mucho mi trabajo y, por ello, intento estar al día con las ultimas tecnologias web.     Actualmente ofrezco mis servicios a clientes de Latinoamérica y de distintas partes del mundo.  Contáctame!!!",
+    "email": "guillemuhana@gmail.com",
+    
+    "phone": "+5493515931673",
+    "address": {
+      "street": "Córdoba",
+      
+      "state": "Argentina"
+      
+    },
+    "website": "www.muhanadesign.com",
+    "resumedownload": "https://muhanadesign.com/descargar-curriculum-vitae/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/MuhanaDesign-111303830415760",
+        "className": "fa fa-facebook"
+      },
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/guillermo-muhana-19989b171/",
+        "className": "fa fa-linkedin"
+      },
+     
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Guillemuhana",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Freelance developer, Front end react developer junior y Diseñador web (Wordpress)",
+    "education": [
+      {
+        "school": "Universidad tecnologica nacional de Córdoba",
+        "degree": "Tecnico universitario en programcion",
+        "graduated": "Diciembre 2018"
+        
+      }
+     
+    ],
+    "work": [
+      {
+        "company": "Fuerza Aerea Argentina",
+        "title": "Informatica y Archivo",
+        "years": "10 años"
+        
+      },
+      {
+        "company": "muhanadesign.com",
+        "title": "Diseño y desarrollo web",
+        "years": "4 años"
+        
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "Git y GitHub",
+        "level": "75%"
+      },
+      {
+        "name": "WordPress- Elementor",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs front-end",
+        "level": "65%"
+      },
+      
+      {
+        "name": "HTML5 - CSS",
+        "level": "75%"
+      },
+      {
+        "name": "Marketing digital",
+        "level": "70%"
+      }
+    
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Patagonia Spa Home",
+        "category": "Tiemda online",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.patagoniaspahome.com/"
+      },
+      {
+        "title": "MuhanaDesign",
+        "category": "Agencia de diseño y desarrollo web",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.muhanadesign.com"
+      },
+      {
+        "title": "Bartolo Negoziodi Frutta",
+        "category": "Tienda online",
+        "image": "smirkspace.jpg",
+        "url": "https://www.bartolonegoziodifrutta.com/"
+      },
+    
+      {
+        "title": "De Vecchis",
+        "category": "Blog de fotografo",
+        "image": "acb.jpg",
+        "url": "https://devecchis.ml/"
+      }
+    
+    ]
+  }
+}
+  
